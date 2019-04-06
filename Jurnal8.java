@@ -5,8 +5,6 @@
  */
 package jurnal8;
 
-import java.util.Scanner;
-
 /**
  *
  * @author Praktikan
