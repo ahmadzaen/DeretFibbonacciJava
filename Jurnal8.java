@@ -9,7 +9,7 @@ package jurnal8;
  *
  * @author Praktikan
  */
-
+import java.util.Scanner;
 public class Jurnal8 {
 
     /**
